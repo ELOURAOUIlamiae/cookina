@@ -24,14 +24,14 @@ lib/
 
 ## Fonctionnalités
 
-- ✅ **Navigation** — BottomNavigationBar avec 5 onglets
-- ✅ **Accueil** — Greeting, stats calories, repas du jour, recettes suggérées
-- ✅ **Meal Planner** — Planning semaine, ajouter/modifier repas
-- ✅ **Recettes** — Grid, recherche texte, filtres (Facile/Rapide/Healthy)
-- ✅ **Détail recette** — Ingrédients + étapes de préparation + partage
-- ✅ **Liste de courses** — Checkbox animées, progress bar, ajout manuel
-- ✅ **Scanner code-barres** — UI scanner avec simulation
-- ✅ **Suggestions IA** — Interface avec ingrédients disponibles
+-  **Navigation** — BottomNavigationBar avec 5 onglets
+-  **Accueil** — Greeting, stats calories, repas du jour, recettes suggérées
+-  **Meal Planner** — Planning semaine, ajouter/modifier repas
+-  **Recettes** — Grid, recherche texte, filtres (Facile/Rapide/Healthy)
+-  **Détail recette** — Ingrédients + étapes de préparation + partage
+-  **Liste de courses** — Checkbox animées, progress bar, ajout manuel
+-  **Scanner code-barres** — UI scanner avec simulation
+-  **Suggestions IA** — Interface avec ingrédients disponibles
 
 ## Lancer le projet
 
